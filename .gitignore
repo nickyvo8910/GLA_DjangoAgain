@@ -1,6 +1,5 @@
 db.sqlite3
 .idea/
 *.pyc
-EatGlasgowApp/migrations/
-EatGlasgow/__pycache__/
-EatGlasgowApp/__pycache__/
+migrations/
+__pycache__/
